@@ -1,7 +1,1 @@
-local game = game.PlaceId
-function l(a)
-loadstring(game:HttpGet(a))()
-end
-if game == then
-   l(s)
-end
+print("soon!")
